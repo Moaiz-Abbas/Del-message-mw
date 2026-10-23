@@ -1,0 +1,6 @@
+{
+  "name": "Deleted Message Viewer LITE + Private",
+  "description": "Local-only private archive of supported incoming message notifications with honest deletion tracking and offline export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
